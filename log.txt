@@ -1,0 +1,7 @@
+started stdio logging in file
+Mirror launched on Mon, 12 Dec 2022 11:46:36 by HTTrack Website Copier/3.49-2 [XR&CO'2014]
+mirroring https://spect-hosting.tk/ +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar with the wizard help..
+Done.
+Thanks for using HTTrack!
+status code 0, 0 errors, 0 warnings
+building top index to /storage/emulated/0/HTTrack/Websites/ using templates /storage/emulated/0/Android/data/com.httrack.android/cache/resources/
